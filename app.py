@@ -1,1 +1,1 @@
-print("Hello from Jenkins + GitHub + EC2")
+print("Auto build working")
